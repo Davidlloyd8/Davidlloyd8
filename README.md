@@ -2,8 +2,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on my LMS (Learning Management System) Project
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: <a href="mailto:extendavidba4@gmail.com"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="30" height="10"></a><a href="https://www.linkedin.com/in/nwadirioha-david-86324a20a/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="10"></a><a href="https://twitter.com/iamdavidlloyd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="30" height="10"></a>
 - 😄 Pronouns: He/his
